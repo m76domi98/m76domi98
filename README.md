@@ -83,7 +83,7 @@ I'm a Computer Engineering student at the University of Waterloo who splits time
 
 <div align="center">
 
-![Michelle's GitHub stats](https://github-readme-stats.vercel.app/api?username=m76domi98&show_icons=true&hide_border=true&title_color=ff4da6&icon_color=ff85c0&text_color=6b2d5c&bg_color=fff0f5)
+[![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=m76domi98&bg_color=fff0f5&color=ff4da6&line=ff69b4&point=6b2d5c&area=true&area_color=ffd1dc&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/m76domi98/m76domi98/output/snake-dark.svg">
