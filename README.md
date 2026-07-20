@@ -29,7 +29,7 @@ I'm a Computer Engineering student at the University of Waterloo who splits time
 </td>
 <td valign="top" width="40%" align="center">
 
-<img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="320">
+<img src="code.gif" width="320">
 
 </td>
 </tr>
