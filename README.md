@@ -37,7 +37,11 @@ QNX &nbsp;·&nbsp; STM32 &nbsp;·&nbsp; ESP32 &nbsp;·&nbsp; FPGA (Quartus / Mod
 
 ![Michelle's GitHub stats](https://github-readme-stats.vercel.app/api?username=m76domi98&show_icons=true&theme=radical&hide_border=true)
 
-![](https://github-readme-activity-graph.vercel.app/graph?username=m76domi98&theme=radical&hide_border=true)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/m76domi98/m76domi98/output/snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/m76domi98/m76domi98/output/snake.svg">
+  <img alt="snake game eating contribution graph" src="https://raw.githubusercontent.com/m76domi98/m76domi98/output/snake.gif">
+</picture>
 
 thanks for stopping by ˚✧₊⁎ ✦
 
