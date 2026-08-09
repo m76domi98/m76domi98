@@ -2,6 +2,8 @@
 
 # 🎀 Hi! Welcome to my GitHub, I'm Michelle 🎀
 
+<img src="ascii_cover.svg" width="480">
+
 </div>
 
 ## 🌸 a little about me 🌸
@@ -79,19 +81,24 @@ I'm a Computer Engineering student at the University of Waterloo who splits time
 ![Supabase](https://img.shields.io/badge/Supabase-C8A2FF?style=for-the-badge&logo=supabase&logoColor=6b2d5c)
 ![Power BI](https://img.shields.io/badge/Power%20BI-FF9EC4?style=for-the-badge&logo=powerbi&logoColor=6b2d5c)
 
-## 🎀 my most used languages 🎀
+## 🎀 my most used languages & GitHub contributions 🎀
 
 <div align="center">
+
+<table>
+<tr>
+<td valign="middle">
 
 ![Top Languages](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=m76domi98&layout=donut-vertical&langs_count=8&bg_color=f5edff&title_color=a855f7&text_color=6b2d5c&icon_color=ff69b4&hide_border=true&border_radius=10)
 
-</div>
-
-## 🎀 my GitHub contributions 🎀
-
-<div align="center">
+</td>
+<td valign="middle">
 
 [![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=m76domi98&bg_color=f5edff&color=a855f7&line=ff69b4&point=6b2d5c&area=true&area_color=c8a2ff&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</td>
+</tr>
+</table>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/m76domi98/m76domi98/output/snake-dark.svg">
