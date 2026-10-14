@@ -26,6 +26,7 @@ I'm a Computer Engineering student at the University of Waterloo who splits time
 - I trained in Bharatanatyam (classical Indian dance) for 10 years
 - love to lift @ gym
 - always painting, pottery and any sort of art where I can touch!
+- purple!
 
 </td>
 <td valign="top" width="40%" align="center">
