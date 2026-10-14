@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🎀 Hi! Welcome to my GitHub, I'm Michelle 🎀
+#  Hi! Welcome to my GitHub, I'm Michelle 
 
 <img src="ascii_cover.svg" width="480">
 
@@ -12,21 +12,20 @@
 <tr>
 <td valign="top" width="60%">
 
-I'm a Computer Engineering student at the University of Waterloo who splits time between embedded systems, full-stack apps, and machine learning depending on the week. I like building things I can actually touch — FPGAs, PCBs, wearable hardware — just as much as I like shipping software. 💖
+I'm a Computer Engineering student at the University of Waterloo who splits time between embedded systems, full-stack apps, and machine learning depending on my mood. I'm a big fan of building things I can touch like FPGAs, PCBs and any sort of wearable hardware. But of course, software & design still has a special place in my heart.
 
 **what I'm building right now:** 🛠️
-
-- 🔧 RTL for a 10 Gbps Ethernet packet parser at UWASIC
+- ⚡ **INT4 GEMV Accelerator** — RTL for LLM decode-time INT4 matrix-vector math
+- 🔧 RTL for a 10 Gbps Ethernet packet parser & Ray Tracer at **UWASIC**
 - 🧵 **MeshGit** — geometry-aware version control for 3D mesh files
 - 🤖 **hand.shake** — an AI grip-assist wearable glove
 
 **outside of code:** 🩷
 
-- 📸 I love taking photos
-- 🩰 I trained in Bharatanatyam (classical Indian dance) for 10 years
-- 🏋️ I lift at the gym
-- 📚 I'm always in the middle of a book
-- 🎨 I paint and make random crafts with my hands
+- I love taking photos, especially .5s!
+- I trained in Bharatanatyam (classical Indian dance) for 10 years
+- love to lift @ gym
+- always painting, pottery and any sort of art where I can touch!
 
 </td>
 <td valign="top" width="40%" align="center">
