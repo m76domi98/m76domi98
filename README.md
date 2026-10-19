@@ -1,41 +1,44 @@
 <div align="center">
 
-#  Hi! Welcome to my GitHub, I'm Michelle 
+# Hi! Welcome to my GitHub, I'm Michelle
 
+<img src="code.gif" alt="Coding animation" width="100%">
 
-## a little about me 
+</div>
 
-<table>
-<tr>
-<td valign="top" width="60%">
+## a little about me
 
-I'm a Computer Engineering student at the University of Waterloo who splits time between embedded systems, full-stack apps, and machine learning depending on my mood. I'm a big fan of building things I can touch like FPGAs, PCBs and any sort of wearable hardware. But of course, software & design still has a special place in my heart.
+I'm a Computer Engineering student at the University of Waterloo who splits time between embedded systems, full-stack apps, and machine learning depending on my mood. I'm a big fan of building things I can touch, like FPGAs, PCBs, and wearable hardware. But of course, software & design still has a special place in my heart.
 
-**what I'm building right now:** 
--  **INT4 GEMV Accelerator** — RTL for LLM decode-time INT4 matrix-vector math
--  RTL for a 10 Gbps Ethernet packet parser & Ray Tracer at **UWASIC**
--  **MeshGit** — geometry-aware version control for 3D mesh files
--  **hand.shake** — an AI grip-assist wearable glove
+**what I'm building right now:**
 
-**outside of code:** 
+- **INT4 GEMV Accelerator** — RTL for LLM decode-time INT4 matrix-vector math
+- RTL for a 10 Gbps Ethernet packet parser & ray tracer at **UWASIC**
+- **MeshGit** — geometry-aware version control for 3D mesh files
+- **hand.shake** — an AI grip-assist wearable glove
+
+**outside of code:**
 
 - I love taking photos, especially .5s!
 - I trained in Bharatanatyam (classical Indian dance) for 10 years
-- love to lift @ gym
-- always painting, pottery and any sort of art where I can touch!
+- love to lift @ the gym
+- always painting, making pottery, or trying any sort of hands-on art!
 - purple!
 
-</td>
-<td valign="top" width="40%" align="center">
-
-<img src="code.gif" width="320">
-
-</td>
-</tr>
-</table>
-
 ## my tech stack
+**Languages:** 💜
 
+![C](https://img.shields.io/badge/C-C8A2FF?style=for-the-badge&logo=c&logoColor=6b2d5c)
+![C++](https://img.shields.io/badge/C++-FF9EC4?style=for-the-badge&logo=cplusplus&logoColor=6b2d5c)
+![Python](https://img.shields.io/badge/Python-FFB6C1?style=for-the-badge&logo=python&logoColor=6b2d5c)
+![JavaScript](https://img.shields.io/badge/JavaScript-C8A2FF?style=for-the-badge&logo=javascript&logoColor=6b2d5c)
+![TypeScript](https://img.shields.io/badge/TypeScript-FF9EC4?style=for-the-badge&logo=typescript&logoColor=6b2d5c)
+![SQL](https://img.shields.io/badge/SQL-FFB6C1?style=for-the-badge&logo=postgresql&logoColor=6b2d5c)
+![C#](https://img.shields.io/badge/C%23-C8A2FF?style=for-the-badge&logo=dotnet&logoColor=6b2d5c)
+![SystemVerilog](https://img.shields.io/badge/SystemVerilog-FF9EC4?style=for-the-badge)
+![Verilog](https://img.shields.io/badge/Verilog-FFB6C1?style=for-the-badge)
+![VHDL](https://img.shields.io/badge/VHDL-C8A2FF?style=for-the-badge)
+![MicroPython](https://img.shields.io/badge/MicroPython-FF9EC4?style=for-the-badge&logo=micropython&logoColor=6b2d5c)
 
 **Frameworks & Libraries:** 🌷
 
@@ -63,27 +66,18 @@ I'm a Computer Engineering student at the University of Waterloo who splits time
 ![Postman](https://img.shields.io/badge/Postman-FF9EC4?style=for-the-badge&logo=postman&logoColor=6b2d5c)
 ![MongoDB](https://img.shields.io/badge/MongoDB-FFB6C1?style=for-the-badge&logo=mongodb&logoColor=6b2d5c)
 ![Supabase](https://img.shields.io/badge/Supabase-C8A2FF?style=for-the-badge&logo=supabase&logoColor=6b2d5c)
-![Power BI](https://img.shields.io/badge/Power%20BI-FF9EC4?style=for-the-badge&logo=powerbi&logoColor=6b2d5c)
+![Power BI](https://img.shields.io/badge/Power%20BI-FF9EC4?style=for-the-badge)
 
-##  GitHub contributions 
+## GitHub contributions
 
 <div align="center">
 
-<table>
-<tr>
-
-<td valign="middle">
-
-[![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=m76domi98&bg_color=f5edff&color=a855f7&line=ff69b4&point=6b2d5c&area=true&area_color=c8a2ff&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</td>
-</tr>
-</table>
+[![Michelle's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=m76domi98&bg_color=f5edff&color=a855f7&line=ff69b4&point=6b2d5c&area=true&area_color=c8a2ff&hide_border=true)](https://github.com/m76domi98)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/m76domi98/m76domi98/output/snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/m76domi98/m76domi98/output/snake.svg">
-  <img alt="snake game eating contribution graph" src="https://raw.githubusercontent.com/m76domi98/m76domi98/output/snake.gif">
+  <img alt="Snake game eating my contribution graph" src="https://raw.githubusercontent.com/m76domi98/m76domi98/output/snake.gif">
 </picture>
 
 thanks for stopping by 💌
