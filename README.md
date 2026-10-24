@@ -72,7 +72,6 @@ I'm a Computer Engineering student at the University of Waterloo who splits time
 
 <div align="center">
 
-[![Michelle's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=m76domi98&bg_color=f5edff&color=a855f7&line=ff69b4&point=6b2d5c&area=true&area_color=c8a2ff&hide_border=true)](https://github.com/m76domi98)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/m76domi98/m76domi98/output/snake-dark.svg">
